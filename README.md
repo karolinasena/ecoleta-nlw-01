@@ -28,7 +28,7 @@ For the Server application, run the commands
 ```
 cd server
 npm install
-npm knex:migrate
+npm run knex:migrate
 npm run dev
 ```
 
