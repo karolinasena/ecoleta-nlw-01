@@ -44,6 +44,6 @@ npm start
 - [Typescript](https://www.typescriptlang.org/)
 - [Node.js](https://nodejs.org/en/)
 - [ReactJS](https://pt-br.reactjs.org/)
-- [Leafalet](https://leafletjs.com/)
+- [Leaflet](https://leafletjs.com/)
 - [Knex.js](http://knexjs.org/)
 
